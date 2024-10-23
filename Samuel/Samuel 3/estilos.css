@@ -1,0 +1,45 @@
+body{
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor{
+    background-color: white;
+    padding: 30px;
+    max-width: 700px;
+    width: 100%;
+    line-height: 1.6;
+}
+
+h1{
+    color: darkblue;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+h2, h3{
+    color: blue;
+    border: 2px solid cyan;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+p{
+    margin-bottom: 15px;
+}
+
+.tema1{
+    margin-bottom: 20px;
+}
+
+.tema2{
+    margin-bottom: 20px;
+}
+
+.tema3{
+    margin-bottom: 20px;
+}

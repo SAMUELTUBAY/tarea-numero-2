@@ -1,0 +1,17 @@
+body{
+    background-color: burlywood;
+    margin: 10%;
+    display: block;
+}
+
+h1{
+    text-align: center;
+    color: #b49300b0;
+    border: 10px;
+    border-color: black;
+}
+
+p{
+    text-align: center;
+    text-justify: auto;
+}
